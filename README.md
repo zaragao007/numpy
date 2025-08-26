@@ -18,6 +18,7 @@ https://doi.org/10.1038/s41586-020-2649-2)
 
 
 NumPy is the fundamental package for scientific computing with Python.
+Estou feliz por estar fazendo a minha primeira edição!
 
 - **Website:** https://numpy.org
 - **Documentation:** https://numpy.org/doc
